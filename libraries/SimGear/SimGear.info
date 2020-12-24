@@ -1,6 +1,6 @@
 PRGNAM="SimGear"
 VERSION="2020.3.8"
-HOMEPAGE="http://wiki.flightgear.org/SimGear"
+HOMEPAGE="https://wiki.flightgear.org/SimGear"
 DOWNLOAD="https://downloads.sourceforge.net/flightgear/simgear-2020.3.8.tar.bz2"
 MD5SUM="9689193f8724f1bdd463c5fb3773e626"
 DOWNLOAD_x86_64=""
